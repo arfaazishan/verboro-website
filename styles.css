@@ -407,13 +407,10 @@ h3 {
   box-shadow: 0 24px 50px rgba(0, 0, 0, 0.18);
 }
 
-.service-card:hover span {
-  color: #c9a24e;
-}
-
+.service-card:hover span,
 .service-card:hover h3,
 .service-card:hover p {
-  color: #0F2342;
+  color: #ffffff;
 }
 
 /* CTA */
